@@ -1,0 +1,1 @@
+<a href='{{url("verify/$user->email/$user->verifyToken")}}'>Click Here to verify your account.</a>
